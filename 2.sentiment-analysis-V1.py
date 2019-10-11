@@ -3,7 +3,7 @@
 
 #Data Import
 import pandas as pd
-input_data = pd.read_csv("D:/Google Drive/Training/Datasets/User_Reviews/User_movie_review.csv")
+input_data = pd.read_csv("User_movie_review.csv")
 
 
 #Basic Details of the data
