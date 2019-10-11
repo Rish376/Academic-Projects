@@ -1,0 +1,27 @@
+Link:
+
+http://archive.ics.uci.edu/ml/datasets/Burst+Header+Packet+%28BHP%29+flooding+attack+on+Optical+Burst+Switching+%28OBS%29+Network
+
+Attributes:
+@attribute Node numeric
+@attribute 'Utilised Bandwith Rate' numeric
+@attribute 'Packet Drop Rate' numeric
+@attribute Full_Bandwidth numeric
+@attribute Average_Delay_Time_Per_Sec numeric
+@attribute Percentage_Of_Lost_Pcaket_Rate numeric
+@attribute Percentage_Of_Lost_Byte_Rate numeric
+@attribute 'Packet Received  Rate' numeric
+@attribute 'of Used_Bandwidth' numeric
+@attribute Lost_Bandwidth numeric
+@attribute 'Packet Size_Byte' numeric
+@attribute Packet_Transmitted numeric
+@attribute Packet_Received numeric
+@attribute Packet_lost numeric
+@attribute Transmitted_Byte numeric
+@attribute Received_Byte numeric
+@attribute 10-Run-AVG-Drop-Rate numeric
+@attribute 10-Run-AVG-Bandwith-Use numeric
+@attribute 10-Run-Delay numeric
+@attribute 'Node Status' {B,NB,'P NB'}
+@attribute 'Flood Status' numeric
+@attribute 'Class' {'NB-No Block',Block,'No Block',NB-Wait}
